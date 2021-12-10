@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Promatech", "Promatech\Promatech.csproj", "{13BBA65F-B195-4472-A040-2CCB77A17D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Promatech.Test", "Promatech.Test\Promatech.Test.csproj", "{39AAD477-0C25-4CC1-8BC9-5E376288AD41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13BBA65F-B195-4472-A040-2CCB77A17D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BBA65F-B195-4472-A040-2CCB77A17D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BBA65F-B195-4472-A040-2CCB77A17D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BBA65F-B195-4472-A040-2CCB77A17D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39AAD477-0C25-4CC1-8BC9-5E376288AD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AAD477-0C25-4CC1-8BC9-5E376288AD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AAD477-0C25-4CC1-8BC9-5E376288AD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AAD477-0C25-4CC1-8BC9-5E376288AD41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07E633AC-9A5D-4B77-AF7D-A321E227C212}
+	EndGlobalSection
+EndGlobal

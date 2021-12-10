@@ -1,0 +1,9 @@
+
+*.json
+*.cache
+*.dll
+.vs/Promatech/v16/.suo
+.vs/Promatech/DesignTimeBuild/.dtbcache.v2
+Promatech.Test/bin/*
+Promatech.Test/obj/*
+
